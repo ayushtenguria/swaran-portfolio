@@ -21,7 +21,7 @@ const CoachFooter = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-3">
               <BriefcaseBusiness size={48} className="text-blue-500" />
-              <h3 className="text-2xl font-bold">CareerCraft Pro</h3>
+              <h3 className="text-2xl font-bold">Elevate</h3>
             </div>
             <p className="text-gray-300 leading-relaxed">
               Accelerate your career growth with personalized coaching, strategic guidance, and proven methodologies. Your professional success is our priority.
@@ -71,7 +71,7 @@ const CoachFooter = () => {
             <div className="space-y-2 text-sm text-gray-300">
               <div className="flex items-center space-x-2">
                 <Mail size={16} />
-                <span>coach@careercraftpro.com</span>
+                <span>coach@Elevate.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone size={16} />
